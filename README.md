@@ -1,5 +1,5 @@
 # Predicting Credit Card Approvals
-**Machine learning model to predict if a credit card application will get approved.**
+**Machine learning model to predict if a credit card application will get approved or not.**
 
 **Project Description**
 
